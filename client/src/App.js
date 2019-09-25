@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Jumbotron from "./components/Jumbotron";
 import Nav from "./components/NavBar";
-import Footer from "./components/Footer";
+// import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
 import images from "./planets.json";
 import PlanetCard from "./components/Card";
@@ -25,7 +25,7 @@ class App extends Component {
             />
           ))}
         </Wrapper>
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }

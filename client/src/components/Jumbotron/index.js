@@ -7,7 +7,7 @@ function Jumbotron() {
       <h1>Clicky Game</h1>
       <p>
         This is an interactive game where you click for your favorite planet to
-        score points!
+        learn more!
       </p>
     </div>
   );
