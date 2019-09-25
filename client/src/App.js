@@ -1,15 +1,18 @@
 import React, { Component } from "react";
 import Jumbotron from "./components/Jumbotron";
-import Nav from "./components/Nav";
+import Nav from "./components/NavBar";
 import Footer from "./components/Footer";
+import Wrapper from "./components/Wrapper";
+
 
 class App extends Component {
   render() {
     return (
       <div>
-        <p className="App-intro">Hello!</p>
         <Nav />
         <Jumbotron />
+        <Wrapper 
+        />
         <Footer />
       </div>
     );

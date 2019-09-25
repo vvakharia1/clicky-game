@@ -3,13 +3,10 @@ import "./style.css";
 
 function Nav() {
   return (
-    <nav className="navbar navbar-dark bg-dark">
-      <a className="navbar-brand" href="/">
-        <strong>Clicky Game</strong>
-      </a>
+    <nav class="navbar navbar-light bg-light">
+      <span class="navbar-brand mb-0 h1">Click to play!</span>
     </nav>
   );
 }
-
 
 export default Nav;

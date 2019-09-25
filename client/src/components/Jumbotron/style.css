@@ -1,5 +1,7 @@
 .jumbotron {
-  min-height: 300px;
-  padding-top: 100px;
-  background-color: blueviolet;
+  min-height: 200px;
+  color: white;
+  text-align: center;
+  padding-top: 75px;
+  background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/504400/cd2e6e5aa573e9dc9a6da6f99fa557dc817cb78b.jpg");
 }

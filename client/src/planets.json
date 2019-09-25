@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Mercury",
+    "image": "https://solarsystem.nasa.gov/system/stellar_items/image_files/2_feature_1600x900_mercury.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mars",
+    "image": "https://solarsystem.nasa.gov/internal_resources/3841"
+  },
+  {
+    "id": 3,
+    "name": "Venus",
+    "image": "https://solarsystem.nasa.gov/system/stellar_items/image_files/3_feature_1600x900_venus.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Earth",
+    "image": "https://solarsystem.nasa.gov/system/downloadable_items/548_slow_spin.5542_print.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jupitor",
+    "image": "https://en.es-static.us/upl/2019/09/jupiter-juno-2-12-2019-e1567611570663.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Saturn",
+    "image": "https://solarsystem.nasa.gov/system/stellar_items/image_files/38_saturn_1600x900.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Neptune",
+    "image": "https://solarsystem.nasa.gov/system/stellar_items/image_files/90_feature_1600x900_4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Uranus",
+    "image": "https://solarsystem.nasa.gov/system/stellar_items/image_files/69_feature_1600x900_uranus_new.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pluto",
+    "image": "https://i2.wp.com/greatlakesledger.com/wp-content/uploads/2019/05/pluto-planet.jpg?fit=1920%2C1080&ssl=1"
+  }
+]

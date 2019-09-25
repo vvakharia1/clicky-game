@@ -1,5 +1,5 @@
 footer {
-  background-color: blueviolet;
+  background-color:pink;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -11,4 +11,5 @@ footer {
 .footerText {
   color: black;
   font-size: 12px;
+  text-align: center;
 }

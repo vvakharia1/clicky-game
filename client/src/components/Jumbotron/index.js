@@ -4,10 +4,10 @@ import "./style.css";
 function Jumbotron() {
   return (
     <div className="jumbotron text-center">
-      <h1>CLicky Game!</h1>
+      <h1>Clicky Game</h1>
       <p>
-        This is an interactive game where you click for your favorite character
-        to score points!
+        This is an interactive game where you click for your favorite planet to
+        score points!
       </p>
     </div>
   );
