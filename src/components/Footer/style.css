@@ -1,0 +1,14 @@
+footer {
+  background-color: blueviolet;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  /*vertically centers the Footer */
+}
+
+.footerText {
+  color: black;
+  font-size: 12px;
+}
